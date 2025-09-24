@@ -1,11 +1,11 @@
 {
-    "name": "qr_mate_frontend",
-    "short_name": "qr_mate_frontend",
+    "name": "Qr Mate",
+    "short_name": "Qr Mate",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Smart QR Code Generator & Manager",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

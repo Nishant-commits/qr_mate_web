@@ -96424,7 +96424,7 @@ amT(){var s,r=$.aZt().a==null,q=r?null:A.de(0,0,30)
 if(q==null)q=A.de(0,0,30)
 s=r?null:A.de(0,0,30)
 if(s==null)s=A.de(0,0,30)
-return A.bEa(A.o(r?null:"https://106.201.228.100:8020")+"/api/v1",q,s,B.z3,new A.av1())}}
+return A.bEa(A.o(r?null:"http://106.201.228.100:8020")+"/api/v1",q,s,B.z3,new A.av1())}}
 A.av1.prototype={
 $1(a){return!0},
 $S:224}
